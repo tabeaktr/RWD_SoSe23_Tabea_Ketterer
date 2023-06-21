@@ -131,7 +131,7 @@
             }
             
             .hero__tooltip-right {
-                background-image: url(imgs/wood.png);
+                background-image: url(imgs/Wood.png);
                 background-position: center;
                 background-repeat: no-repeat;
                 background-size: cover;
@@ -396,7 +396,7 @@
                 padding: 0 30px;
                 object-fit: cover;
                 border-radius: 14px;
-                background-image: url(imgs/banner.png);
+                background-image: url(imgs/Banner.png);
                 background-position: center;
                 background-repeat: no-repeat;
                 background-size: cover;
