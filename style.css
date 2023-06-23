@@ -369,7 +369,7 @@
                     .presentation__img {
                         object-fit: contain;
                         object-position: top;
-                        width: 97%;
+                        width: 100%;
                     }
                     
                     .presentation__text-layout {
